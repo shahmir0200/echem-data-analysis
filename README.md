@@ -3,7 +3,7 @@ During my internship I made catalysts that split water into hydrogen and oxygen 
 This python script takes the raw data from the Potentiostat and makes it into 2 graphs that compare the catalysts' performances.
 The graphs are called LSV graphs (left) and Tafel plots (right). Both are used in electrochemistry to test catalyst performance.
 
-Here is an example of how these graphs look in literature: 
+## How graphs look in literature: 
 <img width="620" height="254" alt="image" src="https://github.com/user-attachments/assets/7ed52b8f-42c9-4002-871b-e56003c8a00e" /> 
 
 (source: Jones, C, et. al)
