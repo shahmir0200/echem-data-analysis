@@ -1,4 +1,4 @@
-# Electrochemistry-data-workup-
+# Electrochemistry data analysis
 During my internship I made catalysts that split water into hydrogen and oxygen (aka. electrolysis). I then tested their performance using a Potentiostat.
 This python script takes the raw data from the Potentiostat and makes it into 2 graphs that compare the catalysts' performances.
 The graphs are called LSV graphs (left) and Tafel plots (right). Both are used in electrochemistry to test catalyst performance.
