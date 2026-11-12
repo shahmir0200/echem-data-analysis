@@ -10,11 +10,11 @@ The graphs are called LSV graphs (left) and Tafel plots (right). Both are used i
 
 The performances of my catalysts are shown in mV/decade on the Tafel plot. The lower the value the better the catalyst performance. My results show that Co/CoP-HCN 1:5 has the best performance, which agrees with the literature.
 
-Here is what my graphs look like after you run the code: 
+## My graphs after you run the code: 
 
 <img width="1162" height="650" alt="image" src="https://github.com/user-attachments/assets/fd9cab38-53bf-40d9-ad88-6095ab838802" />
 
-Here is what the raw data looked like from the Potentiostat: 
+## Raw data from the Potentiostat: 
 
 <img width="464" height="856" alt="image" src="https://github.com/user-attachments/assets/f1f6a96c-bbbd-4397-b676-fdc33e47e87a" />
 
